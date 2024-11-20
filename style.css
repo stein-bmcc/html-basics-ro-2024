@@ -1,0 +1,9 @@
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+
+main{
+    width: 800px;
+    margin: 0 auto;
+}
